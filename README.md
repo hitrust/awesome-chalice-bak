@@ -59,6 +59,7 @@ Only the best.
 - [AWS Limit Checker](https://github.com/jantman/awslimitchecker) - Detect when you are about to run up against AWS limits.
 - [Click](https://click.palletsprojects.com/en/7.x/) - Create a CLI.
 - [Netflix Metaflow S3](https://github.com/Netflix/metaflow/blob/master/metaflow/datatools/s3.py) - Achieve 20 gigabit S3 throughput.
+- [aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of Python utilities for AWS Lambda functions to ease adopting best practices such as tracing, structured logging, custom metrics, and more. 
 
 ## Tooling
 Create diagrams, write code.
